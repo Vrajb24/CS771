@@ -173,7 +173,7 @@ python run_experiments.py --task 1 --runs 20 --horizon 1000
 
 ## Author
 
-**Name:** Vraj Bhavsar  
+**Name:** Vraj Patel 
 **Email:** vrajb24@iitk.ac.in  
 **GitHub:** [Vrajb24](https://github.com/Vrajb24)
 
